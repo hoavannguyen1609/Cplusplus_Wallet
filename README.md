@@ -5,27 +5,29 @@
 Chương trình ví điện tử là một ứng dụng được viết bằng ngôn ngữ lập trình C++ nhằm mô phỏng các chức năng của một ví điện tử. Người dùng có thể thực hiện các thao tác như đăng ký tài khoản, đăng nhập, nạp điểm, chuyển điểm, xác thực OTP, đổi mật khẩu, cập nhật thông tin cá nhân, và xem lịch sử giao dịch. Hệ thống hỗ trợ vai trò quản lý với các chức năng như đăng ký người dùng, cập nhật thông tin người dùng khác, và xem danh sách người dùng. Dữ liệu được lưu trữ cục bộ trong các tệp văn bản với cơ chế sao lưu tự động vào các tệp backup_users.txt và backup_wallets.txt. Ứng dụng đảm bảo tính an toàn thông qua xác thực OTP và mã hóa mật khẩu cơ bản.
 
 ## II. Giới thiệu thành viên và phân công công việc
+   
+   ### Lớp học: D24TXCN05-K
 
-1.  **Họ tên**: Nguyễn Văn Hòa
+1.  **Họ tên**: K24DTCN195 - Nguyễn Văn Hòa
     - **Vai trò**: Nhóm trưởng, Lập trình viên
     - **Công việc thực hiện**:
       - Quản lý nhóm, phân công công việc.
       - Phân tích, thiết kế mã nguồn chính.
 
-2.  **Họ tên**: Lê Anh Hoàng Hai
+2.  **Họ tên**: K24DTCN187 - Lê Anh Hoàng Hai
     - **Vai trò**: Lập trình viên
     - **Công việc thực hiện**:
       - Tìm hiểu cách tạo OTP (One Time Password).
       - Xây dựng chức năng quản lý ví.
       - Xây dựng chức năng chuyển điểm thưởng.
 
-3.  **Họ tên**: Nguyễn Sỹ Thành Hưng
+3.  **Họ tên**: K24DTCN197 - Nguyễn Sỹ Thành Hưng
     - **Vai trò**: Lập trình viên
     - **Công việc thực hiện**:
       - Xây dựng chức năng đăng nhập, đăng ký.
       - Xây dựng chức năng quản lý tài khoản người dùng.
 
-4.  **Họ tên**: Trần Tăng Dương
+4.  **Họ tên**: K24DTCN185 - Trần Tăng Dương
     - **Vai trò**: Kiểm thử, Tài liệu dự án
     - **Công việc thực hiện**:
       - Kiểm thử phần mềm.
@@ -101,7 +103,7 @@ Chương trình ví điện tử là một ứng dụng được viết bằng n
 
    4. Thiết lập hệ thống trên github.
       - 4.1. Tạo 1 Repositories trên Github ([https://github.com](https://github.com))
-      - 4.2. Truy cập đường link [https://github.com/hoavannguyen1609/Cplusplus_Wallet.git](https://github.com/hoavannguyen1609/Cplusplus_Wallet.git), chọn mục "code" và thực hiện lấy toàn bộ code thuộc nhánh **develop** về.
+      - 4.2. Truy cập đường link [https://github.com/hoavannguyen1609/Cplusplus_Wallet.git](https://github.com/hoavannguyen1609/Cplusplus_Wallet.git), chọn mục "code" và thực hiện lấy toàn bộ code thuộc nhánh **main** về.
       - 4.3. Truy vẫn vào Repositories vừa tạo ở bước 4.1 thực hiện đẩy toàn bộ code đã lấy được ở bước 4.2 lên nhánh "**main**".
 
    5. Thiết lập chương trình kết nối với hệ thống.
