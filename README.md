@@ -55,6 +55,7 @@ Chương trình ví điện tử là một ứng dụng được viết bằng n
 
    2. **Đăng nhập**:
       - Kiểm tra tên đăng nhập và mật khẩu, cho phép truy cập hệ thống.
+      - Tài khoản tự sinh yêu cầu đổi mật khẩu lần đầu.
 
    3. **Xem thông tin**:
       - Xem thông tin của tài khoản.
