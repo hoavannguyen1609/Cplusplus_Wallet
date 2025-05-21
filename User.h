@@ -9,12 +9,14 @@
 #include "User.h"
 #include <fstream>
 
-extern std::string F_USER_TRANSACTION_HISTORY, F_TRANSACTION_LOG; //F_USER_TRANSACTION_HISTORY, F_TRANSACTION_LOG
+extern std::string F_USER_TRANSACTION_HISTORY, F_TRANSACTION_LOG; // F_USER_TRANSACTION_HISTORY, F_TRANSACTION_LOG
 namespace fs = std::filesystem;
 
-class User : public Information {
+class User : public Information
+{
 private:
     Account account;
+
 public:
     User();
     User(Information &i, Account j);
@@ -22,11 +24,10 @@ public:
     Account &get_account();
 
     void set_account(Account _account, bool is_tmp = 0);
-    
+
     void set_information(Information _information, bool is_tmp = 0);
 
     int transfer_money(std::string &ID_B, std::string &amount);
-
 };
 
 #endif
