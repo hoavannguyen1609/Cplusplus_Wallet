@@ -62,6 +62,7 @@ Chương trình ví điện tử là một ứng dụng được viết bằng n
    4. **Cập nhật thông tin**:
       - Thay đổi thông tin của tài khoản.
       - Thay đổi mật khẩu của tài khoản.
+      - Khi thay đổi thông tin của tài khoản đều phải xác thực OTP.
 
    5. **Chuyển điểm**:
       - Chuyển điểm đến tài khoản khác, yêu cầu xác thực OTP và kiểm tra số dư.
