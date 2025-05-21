@@ -9,6 +9,7 @@ Console::Console()
 void Console::reset()
 {
     // cur = nullptr;
+    // Thiết lập đối tượng cur thành User mới với tài khoản và thông tin trống
     cur.set_account(Account(), 1);
     cur.set_information(Information(), 1);
 }

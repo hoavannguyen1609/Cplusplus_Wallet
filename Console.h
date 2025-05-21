@@ -6,6 +6,7 @@
 #include <filesystem>
 #include <string>
 
+// Đây là phần khai báo (header) của lớp Console.
 class Console
 {
 private:
