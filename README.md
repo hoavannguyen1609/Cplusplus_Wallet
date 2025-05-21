@@ -8,26 +8,26 @@ Chương trình ví điện tử là một ứng dụng được viết bằng n
    
    ### Lớp học: D24TXCN05-K
 
-1.  **Họ tên**: K24DTCN195 - Nguyễn Văn Hòa
+1.  **Họ tên**: **K24DTCN195** - Nguyễn Văn Hòa
     - **Vai trò**: Nhóm trưởng, Lập trình viên
     - **Công việc thực hiện**:
       - Quản lý nhóm, phân công công việc.
       - Phân tích, thiết kế mã nguồn chính.
 
-2.  **Họ tên**: K24DTCN187 - Lê Anh Hoàng Hai
+2.  **Họ tên**: **K24DTCN187** - Lê Anh Hoàng Hai
     - **Vai trò**: Lập trình viên
     - **Công việc thực hiện**:
       - Tìm hiểu cách tạo OTP (One Time Password).
       - Xây dựng chức năng quản lý ví.
       - Xây dựng chức năng chuyển điểm thưởng.
 
-3.  **Họ tên**: K24DTCN197 - Nguyễn Sỹ Thành Hưng
+3.  **Họ tên**: **K24DTCN197** - Nguyễn Sỹ Thành Hưng
     - **Vai trò**: Lập trình viên
     - **Công việc thực hiện**:
       - Xây dựng chức năng đăng nhập, đăng ký.
       - Xây dựng chức năng quản lý tài khoản người dùng.
 
-4.  **Họ tên**: K24DTCN185 - Trần Tăng Dương
+4.  **Họ tên**: **K24DTCN185** - Trần Tăng Dương
     - **Vai trò**: Kiểm thử, Tài liệu dự án
     - **Công việc thực hiện**:
       - Kiểm thử phần mềm.
